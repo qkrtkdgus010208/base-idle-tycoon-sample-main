@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59be9d4d5444e984eb480966d5f2e6de, type: 3}
+  m_Name: STG0003
+  m_EditorClassIdentifier: 
+  _chartFileID: 165355
+  _stageID: STG0003
+  _upgradeDatas:
+  - Level: 1
+    Title: Carpool with Bestfriend
+    Price: 370
+    EffectDescription: Add +1 Helper
+    EffectCode: UE_AH0001
+  - Level: 2
+    Title: Fast Lane
+    Price: 3956
+    EffectDescription: Add +1 Customer slot
+    EffectCode: UE_AC0001
+  - Level: 3
+    Title: Pool Talent
+    Price: 9244
+    EffectDescription: Add +1 Helper
+    EffectCode: UE_AH0001
+  - Level: 4
+    Title: New Machine
+    Price: 42329
+    EffectDescription: 'Reduce Juice time by half (total preparation time: 1.5 s)'
+    EffectCode: UE_RT0001_STG0003_STS0001
+  - Level: 5
+    Title: Add Chia Seed
+    Price: 87774
+    EffectDescription: Juice profit +50%
+    EffectCode: UE_BP0001_STG0003_STS0001
+  - Level: 6
+    Title: Table for 4
+    Price: 98907
+    EffectDescription: Add +1 Customer slot
+    EffectCode: UE_AC0001
+  - Level: 7
+    Title: Intern Referral
+    Price: 277326
+    EffectDescription: Add +1 Helper
+    EffectCode: UE_AH0001
+  - Level: 8
+    Title: Automatic Waffle Maker
+    Price: 1058236
+    EffectDescription: 'Reduce Waffle time by half (total preparation time: 2.5 s)'
+    EffectCode: UE_RT0001_STG0003_STS0002
+  - Level: 9
+    Title: Guacamole is God
+    Price: 2194357
+    EffectDescription: Taco profit +50%
+    EffectCode: UE_BP0001_STG0003_STS0002
+  - Level: 10
+    Title: Happy Hour
+    Price: 2967204
+    EffectDescription: Add +1 Customer slot
+    EffectCode: UE_AC0001
+  - Level: 11
+    Title: Your Own Nephew, Jack
+    Price: 4272774
+    EffectDescription: Add +1 Helper
+    EffectCode: UE_AH0001
+  - Level: 12
+    Title: Print Flier
+    Price: 10632028
+    EffectDescription: Add +1 Customer slot
+    EffectCode: UE_AC0001
+  - Level: 13
+    Title: Sharper Knife
+    Price: 31747066
+    EffectDescription: 'Reduce Wrap time by half (total preparation time: 3.5 s)'
+    EffectCode: UE_RT0001_STG0003_STS0003
+  - Level: 14
+    Title: Big Portion
+    Price: 65830716
+    EffectDescription: Burrito profit +50%
+    EffectCode: UE_BP0001_STG0003_STS0003

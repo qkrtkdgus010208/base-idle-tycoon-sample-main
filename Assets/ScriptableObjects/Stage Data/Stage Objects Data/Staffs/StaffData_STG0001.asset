@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 160c5903404c6614888522caf9b9974a, type: 3}
+  m_Name: StaffData_STG0001
+  m_EditorClassIdentifier: 
+  _stageID: STG0001
+  _managerTemplate: {fileID: 3345771298195671911, guid: 5d5a52a90c5132b42ad3e742ab4fdb9d, type: 3}
+  _staffHelperTemplate: {fileID: 2691518823723602867, guid: a573172ab219d4540829417649f1ef44, type: 3}
+  _staffPoints:
+  - {fileID: 2077954328380731565, guid: a26746f15338c054787fca48832b3d59, type: 3}
+  - {fileID: 3985058050741271946, guid: 27c67d61b3729e744a797352e0b6e530, type: 3}
+  - {fileID: 5225217792415867366, guid: 604da2d0674e1a14f81e707f4bd9e813, type: 3}

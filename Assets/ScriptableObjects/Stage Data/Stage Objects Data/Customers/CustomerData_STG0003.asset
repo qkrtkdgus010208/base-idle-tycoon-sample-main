@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 81e172b6c7922424c874b4fc59e98a32, type: 3}
+  m_Name: CustomerData_STG0003
+  m_EditorClassIdentifier: 
+  _stageID: STG0003
+  _customerTemplate: {fileID: 2174319859417891211, guid: 1619d793b9f2bc8418cf22d669a35a50, type: 3}
+  _customerSpawnPoint:
+  - {fileID: 7708680869315068833, guid: 3ff41733bf9a515438c49d9b2343a8e4, type: 3}
+  _customerDespawnPoint:
+  - {fileID: 3698783646800297108, guid: 6d55d2407ae55db4383992d142d8c627, type: 3}

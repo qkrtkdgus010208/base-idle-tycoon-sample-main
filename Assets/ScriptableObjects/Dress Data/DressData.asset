@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 990984e29a20aa0488b2a7fa97490094, type: 3}
+  m_Name: DressData
+  m_EditorClassIdentifier: 
+  _chartFileID: 170971
+  _dressObjectDataCollection: {fileID: 11400000, guid: ba1889fdaae75704b84b5b72b30bd14f, type: 2}
+  _dressCollection: []

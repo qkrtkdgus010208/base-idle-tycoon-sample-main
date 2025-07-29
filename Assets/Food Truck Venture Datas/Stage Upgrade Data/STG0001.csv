@@ -1,0 +1,7 @@
+﻿Title,Price,EffectDescription,EffectCode
+Ask a friend,15,Add +1 Helper,UE_AH0001
+Neighbour day,35,Add +1 Customer slot,UE_AC0001
+Energy drink,43,"Reduce Lemonade preparation time by half 
+(total preparation time: 1.5 s)",UE_RT0001_STG0001_STS0001
+Yard Sale,54,Add +1 Customer slot,UE_AC0001
+Ask a friend’s friend,65,Add +1 Helper,UE_AH0001

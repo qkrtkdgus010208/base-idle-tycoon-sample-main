@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 595bef85bff72e441a9fba41757b7bfa, type: 3}
+  m_Name: BonusProfit_Juice
+  m_EditorClassIdentifier: 
+  _upgradeEffectID: UE_BP0001_STG0003_STS0001
+  _dishData: {fileID: 11400000, guid: fecf83126394eca4c9ad62c81bbca856, type: 2}
+  _bonusAmount: 50

@@ -1,0 +1,9 @@
+﻿Title,Price,EffectDescription,EffectCode
+Call Jeff,45,Add +1 Helper,UE_AH0001
+Looking for a Job,270,Add +1 Helper,UE_AH0001
+Friendly Request,20000,Add +1 Helper,UE_AH0001
+More tables,35,Add +1 Customer slot,UE_AC0001
+Free Promotion,540,Add +1 Customer slot,UE_AC0001
+Gone Viral,3000,Add +1 Customer slot,UE_AC0001
+Fountain Cola,3200,Reduce Cola time by half (total preparation time: 1.5 s),UE_RT0001_STG0002_STS0001
+Master of Hot Dog,11300,Reduce Hot Dog time by half (total preparation time: 3.5 s),UE_RT0001_STG0002_STS0002

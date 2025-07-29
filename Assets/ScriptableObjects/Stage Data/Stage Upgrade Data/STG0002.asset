@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59be9d4d5444e984eb480966d5f2e6de, type: 3}
+  m_Name: STG0002
+  m_EditorClassIdentifier: 
+  _chartFileID: 165356
+  _stageID: STG0002
+  _upgradeDatas:
+  - Level: 1
+    Title: More tables
+    Price: 35
+    EffectDescription: Add +1 Customer slot
+    EffectCode: UE_AC0001
+  - Level: 2
+    Title: Call Jeff
+    Price: 45
+    EffectDescription: Add +1 Helper
+    EffectCode: UE_AH0001
+  - Level: 3
+    Title: Looking for a Job
+    Price: 270
+    EffectDescription: Add +1 Helper
+    EffectCode: UE_AH0001
+  - Level: 4
+    Title: Free Promotion
+    Price: 540
+    EffectDescription: Add +1 Customer slot
+    EffectCode: UE_AC0001
+  - Level: 5
+    Title: Gone Viral
+    Price: 3000
+    EffectDescription: Add +1 Customer slot
+    EffectCode: UE_AC0001
+  - Level: 6
+    Title: Fountain Cola
+    Price: 3200
+    EffectDescription: 'Reduce Cola time by half (total preparation time: 1.5 s)'
+    EffectCode: UE_RT0001_STG0002_STS0001
+  - Level: 7
+    Title: Master of Hot Dog
+    Price: 11300
+    EffectDescription: 'Reduce Hot Dog time by half (total preparation time: 3.5
+      s)'
+    EffectCode: UE_RT0001_STG0002_STS0002
+  - Level: 8
+    Title: Friendly Request
+    Price: 20000
+    EffectDescription: Add +1 Helper
+    EffectCode: UE_AH0001

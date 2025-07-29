@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60f2ebdf47aaf4b42944ad39c4e207c0, type: 3}
+  m_Name: StageLoadData
+  m_EditorClassIdentifier: 
+  _stageUpgradeDatas:
+  - {fileID: 11400000, guid: 3a4896d5e1f833f4cbb7c560a0d94bc4, type: 2}
+  - {fileID: 11400000, guid: d929baa2693c6a141bf6973cc852168a, type: 2}
+  - {fileID: 11400000, guid: 4e13d3bf5c1702a4099445e78828fafa, type: 2}
+  _stageEnvironmentsDatas:
+  - {fileID: 11400000, guid: 26f05e114428dfb41826db359a21ff41, type: 2}
+  - {fileID: 11400000, guid: 7f2924c02e66ce44c82a9c2fb05c857e, type: 2}
+  - {fileID: 11400000, guid: 9aae8efd53a0d7b458a0cbfa887ba192, type: 2}
+  _stageKitchenDatas:
+  - {fileID: 11400000, guid: 7e6b63540fe5c6043a2b7fee1e81821d, type: 2}
+  - {fileID: 11400000, guid: cb0ae917ac534b340a0d619b9f9cd1d1, type: 2}
+  - {fileID: 11400000, guid: a25fdafceda1a094f872f85000940d35, type: 2}
+  _stageOrderTablesData:
+  - {fileID: 11400000, guid: 793028aee1a9564428dda8344d976052, type: 2}
+  - {fileID: 11400000, guid: 0c72866b2452b3e4f9a383cf1814a4e6, type: 2}
+  - {fileID: 11400000, guid: 75f5ab3f6bb31dc429f5478a3cd4d224, type: 2}
+  _stageStaffData:
+  - {fileID: 11400000, guid: 0a84728bac6e70a4b96b394ef91a3402, type: 2}
+  - {fileID: 11400000, guid: 59829a5379aa7bb4e84f07c16a1abb3c, type: 2}
+  - {fileID: 11400000, guid: 37f9b43317832c44f9f87e4357757ce7, type: 2}
+  _stageCustomerData:
+  - {fileID: 11400000, guid: ee4a2e905b1251442a81e7eb15d69161, type: 2}
+  - {fileID: 11400000, guid: a8e6568fdcdd4514d8fbc5430254cf7e, type: 2}
+  - {fileID: 11400000, guid: adfcc14c0d0d16346b24941c2cda4506, type: 2}

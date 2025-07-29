@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daf7709971551544abcf35df6357a3f5, type: 3}
+  m_Name: Kitchen_STG0001
+  m_EditorClassIdentifier: 
+  _stageID: STG0001
+  _kitchens:
+  - {fileID: 1130599423227805643, guid: e3eb74adc38032e41b14a339d3277bcc, type: 3}

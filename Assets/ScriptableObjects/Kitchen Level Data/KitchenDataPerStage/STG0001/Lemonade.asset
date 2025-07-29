@@ -1,0 +1,167 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7233161bea9dcb438b42ca08ed05920, type: 3}
+  m_Name: Lemonade
+  m_EditorClassIdentifier: 
+  _chartFileID: 172178
+  _kitchenLevelDatas:
+  - Level: 1
+    UpgradeCost: 0
+    DishProfit: 4
+    IsNextPhase: 0
+    IsOpenMoreTable: 1
+    RewardId: 
+  - Level: 2
+    UpgradeCost: 3
+    DishProfit: 5
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 3
+    UpgradeCost: 4
+    DishProfit: 6
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 4
+    UpgradeCost: 4
+    DishProfit: 8
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 5
+    UpgradeCost: 5
+    DishProfit: 10
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 6
+    UpgradeCost: 6
+    DishProfit: 12
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 7
+    UpgradeCost: 7
+    DishProfit: 15
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 8
+    UpgradeCost: 9
+    DishProfit: 19
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 9
+    UpgradeCost: 11
+    DishProfit: 24
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 10
+    UpgradeCost: 13
+    DishProfit: 30
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 11
+    UpgradeCost: 15
+    DishProfit: 37
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 12
+    UpgradeCost: 19
+    DishProfit: 47
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: Currency_Gems_5
+  - Level: 13
+    UpgradeCost: 22
+    DishProfit: 58
+    IsNextPhase: 1
+    IsOpenMoreTable: 1
+    RewardId: 
+  - Level: 14
+    UpgradeCost: 27
+    DishProfit: 73
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 15
+    UpgradeCost: 32
+    DishProfit: 91
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 16
+    UpgradeCost: 39
+    DishProfit: 114
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 17
+    UpgradeCost: 46
+    DishProfit: 142
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 18
+    UpgradeCost: 55
+    DishProfit: 178
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 19
+    UpgradeCost: 67
+    DishProfit: 222
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 20
+    UpgradeCost: 80
+    DishProfit: 278
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 21
+    UpgradeCost: 96
+    DishProfit: 347
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 22
+    UpgradeCost: 115
+    DishProfit: 434
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 23
+    UpgradeCost: 138
+    DishProfit: 542
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 24
+    UpgradeCost: 166
+    DishProfit: 678
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 25
+    UpgradeCost: 199
+    DishProfit: 847
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: Currency_Gems_10
+  _dishData: {fileID: 11400000, guid: 35c42505c50fe684e9210c1fd491f032, type: 2}

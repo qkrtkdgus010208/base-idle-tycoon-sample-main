@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bf6fdc4d0e012a347b9f5fbe1ac4e209, type: 3}
+  m_Name: OrderTables_STG0001
+  m_EditorClassIdentifier: 
+  _stageID: STG0001
+  _orderTables:
+  - {fileID: 7909452298118789397, guid: adf95c6f7fbdca74fba9fe09fba10c2b, type: 3}
+  - {fileID: 7909452298118789397, guid: ba1ce0b945f536d4595f4580ac6a53fa, type: 3}
+  - {fileID: 7909452298118789397, guid: 5f8e0db21e81eb2498e8a83029d6566d, type: 3}

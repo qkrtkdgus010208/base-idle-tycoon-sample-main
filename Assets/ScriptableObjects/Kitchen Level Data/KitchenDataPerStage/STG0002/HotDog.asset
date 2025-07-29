@@ -1,0 +1,317 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c7233161bea9dcb438b42ca08ed05920, type: 3}
+  m_Name: HotDog
+  m_EditorClassIdentifier: 
+  _chartFileID: 172176
+  _kitchenLevelDatas:
+  - Level: 1
+    UpgradeCost: 50
+    DishProfit: 25
+    IsNextPhase: 0
+    IsOpenMoreTable: 1
+    RewardId: 
+  - Level: 2
+    UpgradeCost: 60
+    DishProfit: 31
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 3
+    UpgradeCost: 72
+    DishProfit: 39
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 4
+    UpgradeCost: 86
+    DishProfit: 49
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 5
+    UpgradeCost: 104
+    DishProfit: 61
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 6
+    UpgradeCost: 124
+    DishProfit: 76
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 7
+    UpgradeCost: 149
+    DishProfit: 95
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 8
+    UpgradeCost: 179
+    DishProfit: 119
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 9
+    UpgradeCost: 215
+    DishProfit: 149
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 10
+    UpgradeCost: 258
+    DishProfit: 186
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 11
+    UpgradeCost: 310
+    DishProfit: 233
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 12
+    UpgradeCost: 372
+    DishProfit: 291
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 13
+    UpgradeCost: 446
+    DishProfit: 364
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 14
+    UpgradeCost: 535
+    DishProfit: 455
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 15
+    UpgradeCost: 642
+    DishProfit: 568
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 16
+    UpgradeCost: 770
+    DishProfit: 711
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: Currency_Gems_5
+  - Level: 17
+    UpgradeCost: 924
+    DishProfit: 888
+    IsNextPhase: 1
+    IsOpenMoreTable: 1
+    RewardId: 
+  - Level: 18
+    UpgradeCost: 1109
+    DishProfit: 1110
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 19
+    UpgradeCost: 1331
+    DishProfit: 1388
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 20
+    UpgradeCost: 1597
+    DishProfit: 1735
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 21
+    UpgradeCost: 1917
+    DishProfit: 2168
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 22
+    UpgradeCost: 2300
+    DishProfit: 2711
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 23
+    UpgradeCost: 2760
+    DishProfit: 3388
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 24
+    UpgradeCost: 3312
+    DishProfit: 4235
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 25
+    UpgradeCost: 3975
+    DishProfit: 5294
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 26
+    UpgradeCost: 4770
+    DishProfit: 6617
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 27
+    UpgradeCost: 5724
+    DishProfit: 8272
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 28
+    UpgradeCost: 6869
+    DishProfit: 10340
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 29
+    UpgradeCost: 8242
+    DishProfit: 12925
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 30
+    UpgradeCost: 9891
+    DishProfit: 16156
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 31
+    UpgradeCost: 11869
+    DishProfit: 20195
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 32
+    UpgradeCost: 14243
+    DishProfit: 25244
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: Currency_Gems_10
+  - Level: 33
+    UpgradeCost: 17091
+    DishProfit: 31554
+    IsNextPhase: 1
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 34
+    UpgradeCost: 20509
+    DishProfit: 39443
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 35
+    UpgradeCost: 24611
+    DishProfit: 49304
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 36
+    UpgradeCost: 29533
+    DishProfit: 61630
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 37
+    UpgradeCost: 35440
+    DishProfit: 77037
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 38
+    UpgradeCost: 42528
+    DishProfit: 96296
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 39
+    UpgradeCost: 51034
+    DishProfit: 120371
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 40
+    UpgradeCost: 61240
+    DishProfit: 150463
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 41
+    UpgradeCost: 73489
+    DishProfit: 188079
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 42
+    UpgradeCost: 88186
+    DishProfit: 235099
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 43
+    UpgradeCost: 105824
+    DishProfit: 293874
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 44
+    UpgradeCost: 126988
+    DishProfit: 367342
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 45
+    UpgradeCost: 152386
+    DishProfit: 459177
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 46
+    UpgradeCost: 182863
+    DishProfit: 573972
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 47
+    UpgradeCost: 219436
+    DishProfit: 717465
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 48
+    UpgradeCost: 263323
+    DishProfit: 896831
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 49
+    UpgradeCost: 315987
+    DishProfit: 1121039
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: 
+  - Level: 50
+    UpgradeCost: 379185
+    DishProfit: 1401298
+    IsNextPhase: 0
+    IsOpenMoreTable: 0
+    RewardId: Currency_Gems_15
+  _dishData: {fileID: 11400000, guid: 7e0db3f95c5e7114f821e6ff22a7ad3f, type: 2}

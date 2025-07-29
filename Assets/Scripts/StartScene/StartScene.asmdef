@@ -1,0 +1,20 @@
+{
+    "name": "StartScene",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d41bfe88347ad4f4b80b6e3fdf1fe906",
+        "GUID:5824b337d1fa28345bc2c97f16fe445b",
+        "GUID:4abd2b52dd8b62b4fbb9810467ea11d0",
+        "GUID:739769ace798e494ea345d254b27244e",
+        "GUID:6055be8ebefd69e48b49212b09b47b2f"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

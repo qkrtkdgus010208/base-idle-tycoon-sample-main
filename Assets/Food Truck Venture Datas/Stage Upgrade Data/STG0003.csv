@@ -1,0 +1,15 @@
+﻿Title,Price,EffectDescription,EffectCode
+Carpool with Bestfriend,370,Add +1 Helper,UE_AH0001
+Pool Talent,9244,Add +1 Helper,UE_AH0001
+Intern Referral,277326,Add +1 Helper,UE_AH0001
+"Your Own Nephew, Jack",4272774,Add +1 Helper,UE_AH0001
+Fast Lane,3956,Add +1 Customer slot,UE_AC0001
+Table for 4,98907,Add +1 Customer slot,UE_AC0001
+Happy Hour,2967204,Add +1 Customer slot,UE_AC0001
+Print Flier,10632028,Add +1 Customer slot,UE_AC0001
+New Machine,42329,Reduce Juice time by half (total preparation time: 1.5 s),UE_RT0001_STG0003_STS0001
+Automatic Waffle Maker,1058236,Reduce Waffle time by half (total preparation time: 2.5 s),UE_RT0001_STG0003_STS0002
+Sharper Knife,31747066,Reduce Wrap time by half (total preparation time: 3.5 s),UE_RT0001_STG0003_STS0003
+Add Chia Seed,87774,Juice profit +50%,UE_BP0001_STG0003_STS0001
+Guacamole is God,2194357,Taco profit +50%,UE_BP0001_STG0003_STS0002
+Big Portion,65830716,Burrito profit +50%,UE_BP0001_STG0003_STS0003

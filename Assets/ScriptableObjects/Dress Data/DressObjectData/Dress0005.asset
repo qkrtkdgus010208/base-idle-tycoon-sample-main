@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 02325d56c08d3a84dabea1b89d4a1a4b, type: 3}
+  m_Name: Dress0005
+  m_EditorClassIdentifier: 
+  _dressID: xxcost_e01
+  _icon: {fileID: 21300000, guid: 615aebe159d1f414296dbe06a1c99d9f, type: 3}
+  _spriteObject: {fileID: 21300000, guid: 615aebe159d1f414296dbe06a1c99d9f, type: 3}
+  _animator: {fileID: 9100000, guid: 8d95b507fcbfb634b86407fe34c1fb0b, type: 2}

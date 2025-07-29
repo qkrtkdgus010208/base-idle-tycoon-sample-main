@@ -1,0 +1,18 @@
+{
+    "name": "BackndServer",
+    "rootNamespace": "",
+    "references": [
+        "GUID:d41bfe88347ad4f4b80b6e3fdf1fe906",
+        "GUID:739769ace798e494ea345d254b27244e",
+        "GUID:60bfecf5cb232594891bc622f40d6bed"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

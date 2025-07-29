@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ff2dff5f4140b3445b1b6d7b3257233d, type: 3}
+  m_Name: CustomerBatchData
+  m_EditorClassIdentifier: 
+  _chartFileID: 169736
+  _normalCustomerData:
+  - CustomerID: 0
+    CustomerName: Customer A
+    CustomerDescription: Normal Customer
+    EffectDescription: 
+    EffectData: 
+  - CustomerID: 1
+    CustomerName: Customer B
+    CustomerDescription: Normal Customer
+    EffectDescription: 
+    EffectData: 
+  - CustomerID: 2
+    CustomerName: Customer C
+    CustomerDescription: Normal Customer
+    EffectDescription: 
+    EffectData: 
+  - CustomerID: 3
+    CustomerName: Customer D
+    CustomerDescription: Normal Customer
+    EffectDescription: 
+    EffectData: 
+  _normalCustomer:
+  - {fileID: 11400000, guid: 56894018068d36b4cb362fad81cc0050, type: 2}
+  - {fileID: 11400000, guid: 6d6ad4dccd7a29a4b80b27fd72cfd6b3, type: 2}
+  - {fileID: 11400000, guid: 21b708cb793b7624aaede952f0172a6a, type: 2}
+  - {fileID: 11400000, guid: 66f192fefb059fc498964e807320c9cd, type: 2}
+  _specialCustomer:
+  - {fileID: 11400000, guid: f888ada68f80f9a459c1b8b350b1a086, type: 2}
+  - {fileID: 11400000, guid: 947769727dd8eb445a50150abfb763a5, type: 2}
+  - {fileID: 11400000, guid: d6723ec6ade19884382c92b0472989ef, type: 2}
+  - {fileID: 11400000, guid: f74bfcaad11aaa349bc2d9fe15efd509, type: 2}
+  - {fileID: 11400000, guid: c71bf2d546ae09f4f8f1784600845c2a, type: 2}

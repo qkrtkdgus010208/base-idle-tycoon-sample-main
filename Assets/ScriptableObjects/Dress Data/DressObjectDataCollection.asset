@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4649f174ebbd8804ab39571bd0a95f42, type: 3}
+  m_Name: DressObjectDataCollection
+  m_EditorClassIdentifier: 
+  _dressObjectDataCollection:
+  - {fileID: 11400000, guid: 64683d93a42924148acc256d073353bd, type: 2}
+  - {fileID: 11400000, guid: 07d2777a84a243d4c8c6a81c81008b8e, type: 2}
+  - {fileID: 11400000, guid: 1feb43a34c4acef45a3acfb972bca9f9, type: 2}
+  - {fileID: 11400000, guid: b01a64ec187bd8a4aa1318fb12c23ff9, type: 2}
+  - {fileID: 11400000, guid: 2417d01f3e54c53449b98bd7646c74de, type: 2}
+  - {fileID: 11400000, guid: eb554f4f34804fd4f9572a6342ff7372, type: 2}
+  - {fileID: 11400000, guid: 9fb91e2022fd0354288ce84cf6783b71, type: 2}
+  - {fileID: 11400000, guid: 220af59aed54c7a47a35f65c2f8f15b3, type: 2}
+  - {fileID: 11400000, guid: 1e84c0bc2ce046d478495370231c0b66, type: 2}
