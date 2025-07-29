@@ -12,5 +12,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: fa9e32d842d2a80439c830cdbe59a42d, type: 3}
   m_Name: LootBoxDatas
   m_EditorClassIdentifier: 
-  _chartFileID: 166592
+  _chartFileID: 195893
   _lootBoxObjectsDataCollection: {fileID: 11400000, guid: 900f6b7c339a25349bcd436bd0105e4a, type: 2}

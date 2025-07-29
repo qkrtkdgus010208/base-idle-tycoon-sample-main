@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 59be9d4d5444e984eb480966d5f2e6de, type: 3}
   m_Name: STG0001
   m_EditorClassIdentifier: 
-  _chartFileID: 159772
+  _chartFileID: 195889
   _stageID: STG0001
   _upgradeDatas:
   - Level: 1

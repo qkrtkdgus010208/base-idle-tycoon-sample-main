@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c7233161bea9dcb438b42ca08ed05920, type: 3}
   m_Name: Lemonade
   m_EditorClassIdentifier: 
-  _chartFileID: 172178
+  _chartFileID: 195883
   _kitchenLevelDatas:
   - Level: 1
     UpgradeCost: 0

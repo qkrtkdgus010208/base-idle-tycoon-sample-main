@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 660911240, guid: f624596d5fe1bd5459a5da424a8abc1b, type: 3}
   m_Name: TheBackendSettings
   m_EditorClassIdentifier: 
-  clientAppID: 
-  signatureKey: 
+  clientAppID: 36355050-6c81-11f0-b4da-5f15ac0332bb10179
+  signatureKey: 36355051-6c81-11f0-b4da-5f15ac0332bb10179
   functionAuthKey: 
-  packageName: com.backnd.foodtruckventure
+  packageName: com.DefaultCompany.2DProject
   sendLogReport: 1
   timeOutSec: 100
   Version: 5.17.1
