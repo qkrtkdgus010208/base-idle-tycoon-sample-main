@@ -12,5 +12,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b951fa6357b31a246b08ea3111187c63, type: 3}
   m_Name: LootBoxProbabilityData
   m_EditorClassIdentifier: 
-  _fileID: 14157
-  _contentDatas: []
+  _fileID: 16183
+  _contentDatas:
+  - percent: 20
+    ItemID: 
+  - percent: 20
+    ItemID: 
+  - percent: 15
+    ItemID: 
+  - percent: 15
+    ItemID: 
+  - percent: 12.5
+    ItemID: 
+  - percent: 12.5
+    ItemID: 
+  - percent: 2.5
+    ItemID: 
+  - percent: 2.5
+    ItemID: 

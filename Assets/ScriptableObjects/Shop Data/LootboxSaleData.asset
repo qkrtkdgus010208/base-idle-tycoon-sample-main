@@ -12,5 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: ebb80a51a53b2914e8c2de985e88e310, type: 3}
   m_Name: LootboxSaleData
   m_EditorClassIdentifier: 
-  _chartFileID: 171829
-  _lootboxSaleDatas: []
+  _chartFileID: 195897
+  _lootboxSaleDatas:
+  - ShopID: xxlb_0001
+    LootboxID: LB0001
+    Price: 80
+  - ShopID: xxlb_0002
+    LootboxID: LB0002
+    Price: 180
+  - ShopID: xxlb_0003
+    LootboxID: LB0003
+    Price: 280

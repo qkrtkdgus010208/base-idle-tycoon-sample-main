@@ -12,5 +12,54 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f2feacce34dfc3e4da62540276be68d7, type: 3}
   m_Name: BundleSaleData
   m_EditorClassIdentifier: 
-  _chartFileID: 166752
-  _bundleDatas: []
+  _chartFileID: 195896
+  _bundleDatas:
+  - BundleID: xxbdl_stmini
+    BundleName: Starter Pack Mini
+    ContainsItems: '[
+
+      "BIPG_200",
+
+      "BIPC_2500000"
+
+      ]'
+  - BundleID: xxbdl_stmed
+    BundleName: Starter Pack Medium
+    ContainsItems: '[
+
+      "BIPG_350",
+
+      "BIPC_5000000"
+
+      ]'
+  - BundleID: xxbdl_stlar
+    BundleName: Starter Pack Large
+    ContainsItems: '[
+
+      "BIPG_850",
+
+      "BIPC_10000000"
+
+      ]'
+  - BundleID: xxbdl_fashmini
+    BundleName: Fashion Pack Mini
+    ContainsItems: '[
+
+      "BIPG_350",
+
+      "BILB_LB0001_3",
+
+      "BILB_LB0002_2"
+
+      ]'
+  - BundleID: xxbdl_fashmed
+    BundleName: Fashion Pak Medium
+    ContainsItems: '[
+
+      "BIPG_500",
+
+      "BILB_LB0002_5",
+
+      "BILB_LB0003_4"
+
+      ]'

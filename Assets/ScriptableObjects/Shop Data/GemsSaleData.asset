@@ -12,5 +12,26 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b3327ccce0f92484ea1ee8a4873a09e8, type: 3}
   m_Name: GemsSaleData
   m_EditorClassIdentifier: 
-  _chartFileID: 168529
-  _gemsSaleDatas: []
+  _chartFileID: 195895
+  _gemsSaleDatas:
+  - GemsSaleID: adsgems_01
+    GemsSaleName: Few Gems
+    Amount: 20
+  - GemsSaleID: xxgems_01
+    GemsSaleName: Single Gem
+    Amount: 100
+  - GemsSaleID: xxgems_02
+    GemsSaleName: Handful of Gems
+    Amount: 255
+  - GemsSaleID: xxgems_03
+    GemsSaleName: Heap of Gems
+    Amount: 520
+  - GemsSaleID: xxgems_04
+    GemsSaleName: Small box of Gems
+    Amount: 1100
+  - GemsSaleID: xxgems_05
+    GemsSaleName: Medium box of Gems
+    Amount: 2700
+  - GemsSaleID: xxgems_06
+    GemsSaleName: Trunks of Gems
+    Amount: 5500

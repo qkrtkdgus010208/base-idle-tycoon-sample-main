@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 9de341511477b26459733db81856e57d, type: 3}
   m_Name: StageDefaultDatasCollections
   m_EditorClassIdentifier: 
-  _chartFileID: 175091
+  _chartFileID: 195899
   _stageDatas:
   - StageID: STG0001
     StageName: Lemonade Stand

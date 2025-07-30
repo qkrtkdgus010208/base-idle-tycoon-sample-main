@@ -12,15 +12,19 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cb187c52833fc8243932b60647356c2c, type: 3}
   m_Name: DailyRewardBatchData
   m_EditorClassIdentifier: 
-  _chartFileID: 169109
+  _chartFileID: 195882
   _rewardDatas:
-  - DayIdx: 0
-    RewardData: 
-  - DayIdx: 0
-    RewardData: 
-  - DayIdx: 0
-    RewardData: 
-  - DayIdx: 0
-    RewardData: 
-  - DayIdx: 0
-    RewardData: 
+  - DayIdx: 1
+    RewardData: Gems_10
+  - DayIdx: 2
+    RewardData: Coins_250000
+  - DayIdx: 3
+    RewardData: Gems_15
+  - DayIdx: 4
+    RewardData: Coins_500000
+  - DayIdx: 5
+    RewardData: Gems_25
+  - DayIdx: 6
+    RewardData: Coins_1000000
+  - DayIdx: 7
+    RewardData: Gems_30
